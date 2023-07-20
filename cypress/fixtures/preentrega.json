@@ -1,7 +1,7 @@
 {
     "login": {
-        "user":"pushingit",
-        "password":"123456!"
+        "user":"arley",
+        "password":"arley1234!"
     },
     "Products": {
         "Product1": {
@@ -12,5 +12,11 @@
             "nameProduct2": "Black T-Shirt",
             "priceProduct2": 15
         }      
+    
+    },
+    "checkout":{
+        "firstName": "Arley",
+        "lastName":"Carrasquel", 
+        "cardNumber":"045645678925635"
     }
 }
